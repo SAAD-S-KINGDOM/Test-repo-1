@@ -5,7 +5,7 @@ team: ["IDP"]
 properties:
   name: devex-port-blueprints
   url: https://github.com/Smarsh/edevex-port-blueprints
-  description: "123"
+  about: "123"
   customer_facing: true
   slack: "https://smarsh.slack.com/archives/C07NH74LTED"
 relations: 
