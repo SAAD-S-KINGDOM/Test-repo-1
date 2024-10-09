@@ -1,2 +1,12 @@
-slack: "https://app.getport.io/serviceEntity?identifier=Test-repo-1&activeTab=2"
-description: "Hello-world"
+identifier: devex-port-blueprints
+title: devex-port-blueprints
+blueprint: service
+team: ["IDP"]
+properties:
+  name: devex-port-blueprints
+  url: https://github.com/Smarsh/edevex-port-blueprints
+  about: "Collection of port blueprints + related adhoc scripts"
+  customer_facing: false
+  slack: https://smarsh.slack.com/archives/C07NH74LTED
+relations: 
+    product: enterprise_archive
