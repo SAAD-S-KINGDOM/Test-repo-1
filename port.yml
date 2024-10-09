@@ -6,7 +6,7 @@ properties:
   name: devex-port-blueprints
   url: https://github.com/Smarsh/edevex-port-blueprints
   about: "Collection of port blueprints + related adhoc scripts"
-  customer_facing: false
+  customer_facing: true
   slack: https://smarsh.slack.com/archives/C07NH74LTED
 relations: 
     product: enterprise_archive
