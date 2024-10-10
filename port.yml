@@ -1,19 +1,10 @@
-# identifier: devex-port-blueprints
-# title: devex-port-blueprints
-# blueprint: service
-# description: "This is from the Yaml file"
-# team: ["IDP"]
-# properties:
-#   name: devex-port-blueprints
-#   url: https://github.com/Smarsh/edevex-port-blueprints
-#   customer_facing: true
-#   slack: "https://smarsh.slack.com/archives/C07NH74LTED"
-# relations: 
-#     product: enterprise_archive
-
-description: "This is from the Yaml file"
+identifier: Test-repo-1
+title: Test-repo-1
+blueprint: service
+team: ["IDP", "Indexing Search"]
 properties:
-  name: Test-repo-1
-  url: "https://github.com/Smarsh/Test-repo-1"
+  about: "Test repo for port"
   customer_facing: false
   slack: "https://smarsh.slack.com/archives/C07NH74LTED"
+relations:
+    product: enterprise_archive
