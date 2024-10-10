@@ -11,5 +11,9 @@
 # relations: 
 #     product: enterprise_archive
 
-slack: "https://smarsh.slack.com/archives/C07NH74LTED"
 description: "This is from the Yaml file"
+properties:
+  name: Test-repo-1
+  url: "https://github.com/Smarsh/Test-repo-1"
+  customer_facing: false
+  slack: "https://smarsh.slack.com/archives/C07NH74LTED"
