@@ -1,6 +1,7 @@
 identifier: devex-port-blueprints
 title: devex-port-blueprints
 blueprint: service
+description: "This is from the Yaml file"
 team: ["IDP"]
 properties:
   name: devex-port-blueprints
