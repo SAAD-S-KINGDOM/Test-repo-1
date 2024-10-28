@@ -1,12 +1,10 @@
-identifier: devex-port-blueprints
-title: devex-port-blueprints
+identifier: Test-repo-1
+title: Test-repo-1
 blueprint: service
-team: ["IDP"]
+team: ["IDP", "Indexing Search"]
 properties:
-  name: devex-port-blueprints
-  url: https://github.com/Smarsh/edevex-port-blueprints
-  about: "123"
-  customer_facing: true
+  about: "Test repo for port"
+  customer_facing: false
   slack: "https://smarsh.slack.com/archives/C07NH74LTED"
-relations: 
+relations:
     product: enterprise_archive
